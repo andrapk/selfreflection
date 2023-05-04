@@ -15,3 +15,5 @@
 - Stuck gabisa manggil variabel
 - Sudah bisa memanggil variable, tapi yg muncul hanya 1, tidak bisa beberapa
 - Layout tidak terbaca
+- Layout sudah bisa terbaca
+- Yang harus dilakukan besok : memanggil semua variable dengan foreach, memanggil data dengan section
