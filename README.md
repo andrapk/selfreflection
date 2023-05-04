@@ -11,4 +11,4 @@
 - Review ulang yang dipelajari kemarin
 - Belajar layout files
 - Belajar CSS and images
-- 
+- Latihan bikin layout dan implementasikan sendiri
