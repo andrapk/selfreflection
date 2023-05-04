@@ -13,3 +13,5 @@
 - Belajar CSS and images
 - Latihan bikin layout dan implementasikan sendiri
 - Stuck gabisa manggil variabel
+- Sudah bisa memanggil variable, tapi yg muncul hanya 1, tidak bisa beberapa
+- Layout tidak terbaca
