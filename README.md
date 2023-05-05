@@ -17,3 +17,6 @@
 - Layout tidak terbaca
 - Layout sudah bisa terbaca
 - Yang harus dilakukan besok : memanggil semua variable dengan foreach, memanggil data dengan section
+
+**5 Mei 2021**
+- Mengulang yang kemarin dipelajari
