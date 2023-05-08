@@ -26,3 +26,6 @@
 - Input image
 - Masih stuck pada pengeditan posisi dan ukuran image supaya pas
 - Yang harus dilakukan besok " mengepaskan logo image pada website
+
+**8 Mei 2021**
+- Mengulang yang kemarin dipelajari
