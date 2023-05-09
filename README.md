@@ -7,7 +7,7 @@
 - Solving error pada blade looping
 - Bisa menghubungkan visual studio dengan github
 
-**4 Mei 2021**
+**4 Mei 2023**
 - Review ulang yang dipelajari kemarin
 - Belajar layout files
 - Belajar CSS and images
@@ -18,7 +18,7 @@
 - Layout sudah bisa terbaca
 - Yang harus dilakukan besok : memanggil semua variable dengan foreach, memanggil data dengan section
 
-**5 Mei 2021**
+**5 Mei 2023**
 - Mengulang yang kemarin dipelajari
 - Sudah bisa memanggil semua variable dengan foreach dan data section
 - Membuat CSS
@@ -27,5 +27,9 @@
 - Masih stuck pada pengeditan posisi dan ukuran image supaya pas
 - Yang harus dilakukan besok " mengepaskan logo image pada website
 
-**8 Mei 2021**
+**8 Mei 2023**
 - Mengulang yang kemarin dipelajari
+
+**9 Mei 2023**
+- Mempelajari Query Parameters
+- Mempelajari Route Parameters
