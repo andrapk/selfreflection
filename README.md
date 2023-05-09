@@ -33,3 +33,5 @@
 **9 Mei 2023**
 - Mempelajari Query Parameters
 - Mempelajari Route Parameters
+- Merapihkan tampilan
+- Belum selesai
