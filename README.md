@@ -35,3 +35,7 @@
 - Mempelajari Route Parameters
 - Merapihkan tampilan
 - Belum selesai
+
+**12 Mei 2023**
+- Praktek Query Parameters & Route Parameters
+- 
