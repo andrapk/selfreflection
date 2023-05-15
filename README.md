@@ -50,3 +50,4 @@
 - Mempelajari tentang Controller
 - Prakter Route Parameters
 - Membuat Controller
+- Controllernya belum kebaca
