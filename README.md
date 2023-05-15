@@ -51,3 +51,5 @@
 - Prakter Route Parameters
 - Membuat Controller
 - Controllernya belum kebaca
+- Akhirnya controller terbaca, tetapi harus mengganti cara memanggil route nya, menjadi seperti ini : Route::get('/latihan', [LatihanController::class, 'index']);
+- Dan memanggil controllernya didalam file route seperti ini : use App\Http\Controllers\LatihanController;
