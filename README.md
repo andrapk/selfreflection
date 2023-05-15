@@ -38,4 +38,15 @@
 
 **12 Mei 2023**
 - Praktek Query Parameters & Route Parameters
-- 
+
+**13 Mei 2023**
+- Membaca sekilas tentang Controller
+
+**14 Mei 2023**
+- Kerja
+
+**15 Mei 2023**
+- Mempelajari bedanya Query Parameters dan Route Parameters
+- Mempelajari tentang Controller
+- Prakter Route Parameters
+- Membuat Controller
