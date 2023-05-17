@@ -59,3 +59,8 @@
 - Sudah bisa menambah CARD dalam website
 - Tapi tampilan masih belum rapi 
 - Dan gambar malah ke loop juga
+
+**17 Mei 2023**
+- Setelah coldplay ticket war baru mulai
+- Masih belum rapi juga tampilannya
+- Susah menemukan logika nya
