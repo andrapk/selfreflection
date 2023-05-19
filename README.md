@@ -64,3 +64,9 @@
 - Setelah coldplay ticket war baru mulai
 - Masih belum rapi juga tampilannya
 - Susah menemukan logika nya
+
+**18 Mei 2023**
+- Libur karena nonton FaxtX
+
+**19 Mei 2023**
+Tengah malam baru bisa diajari teman buat rapihin dan nemuin logic nya
