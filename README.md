@@ -81,3 +81,5 @@
 - Praktek membuat mysql dan migration
 - Error tidak bisa buat database
 - Ternyata hanya disuruh close Visual Studio kemudian di run lagi
+- XAMPP nya sempat error tapi udah bisa karena d install ulang
+- Membuat database awal
