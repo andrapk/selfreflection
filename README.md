@@ -69,4 +69,15 @@
 - Libur karena nonton FaxtX
 
 **19 Mei 2023**
-Tengah malam baru bisa diajari teman buat rapihin dan nemuin logic nya
+- Tengah malam baru bisa diajari teman buat rapihin dan nemuin logic nya
+
+**20 Mei 2023**
+- Kerja
+
+**21 Mei 2023**
+- Belajar tentang connectiing mysql dan migration
+
+**22 Mei 2023**
+- Praktek membuat mysql dan migration
+- Error tidak bisa buat database
+- Ternyata hanya disuruh close Visual Studio kemudian di run lagi
