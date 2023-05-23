@@ -83,3 +83,6 @@
 - Ternyata hanya disuruh close Visual Studio kemudian di run lagi
 - XAMPP nya sempat error tapi udah bisa karena d install ulang
 - Membuat database awal
+
+**23 Mei 2023**
+- Masih mempelajari materi mysql dan migration
