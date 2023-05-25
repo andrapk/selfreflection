@@ -86,3 +86,11 @@
 
 **23 Mei 2023**
 - Masih mempelajari materi mysql dan migration
+
+**24 Mei 2023**
+- Hanya liat youtube tentang Eloquent Models tidak sempet praktek karena ada disuruh papa
+
+**25 Mei 2023**
+- Praktek Eloquent Models
+- Model sudah terbuat tapi tidak terdetect
+- Masih belum menemukan caranya
